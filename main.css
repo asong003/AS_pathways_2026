@@ -1,0 +1,21 @@
+﻿body {
+    background: #062502;
+    color: #1b1717;
+}
+p {
+    background-color: #E30B5D;
+    padding: 16px;
+    margin: 10px;
+}
+.top {
+    background-color: #FFFFFF;
+    color: #000080;
+}
+#annik {
+    background-color: #87CEEB;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    margin: 10px;
+}
